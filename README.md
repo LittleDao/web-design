@@ -1,8 +1,8 @@
 # web-design
-前端学习笔记
+前端学习笔记+md学习笔记
 
 # Css
-/* 滚动条样式 */
+```/* 滚动条样式 */
 /* 滚动条整体 */
 .parentWrap::-webkit-scrollbar {
  width: 3px;
@@ -26,3 +26,4 @@
 	overflow:auto;
 }
 /* 滚动条样式结束 */
+```
