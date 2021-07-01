@@ -27,3 +27,16 @@
 }
 /* 滚动条样式结束 */
 ```
+
+原文链接：<https://blog.csdn.net/wtxasdasd123/article/details/68961335>
+```
+/* 换行显示并以省略号的形式隐藏超出部分  */
+	overflow: hidden;
+	word-wrap:break-word;
+	white-space:pre-wrap;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 3;
+
+```
